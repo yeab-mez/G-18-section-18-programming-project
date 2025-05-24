@@ -1,0 +1,2 @@
+a="eden"
+print(a)
